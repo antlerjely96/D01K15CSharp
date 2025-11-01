@@ -4,7 +4,10 @@
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e666a8aa-eba6-404c-8ee4-75d1da6af019" name="Changes" comment="" />
+    <list default="true" id="e666a8aa-eba6-404c-8ee4-75d1da6af019" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761979667207</updated>
       <workItem from="1761979693996" duration="89000" />
-      <workItem from="1761979847005" duration="2642000" />
+      <workItem from="1761979847005" duration="3592000" />
     </task>
     <servers />
   </component>

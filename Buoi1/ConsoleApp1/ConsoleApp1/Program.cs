@@ -90,6 +90,15 @@ const double PI = 3.14;
     } else if(điều kiện 4){
     } else {
     }
+    
+    switch(tên_biến){
+        case giá_trị:
+            khối lệnh;
+            break;
+        default:
+            khối lệnh;
+            break;
+    }
 */
  
 /* Nhập số nguyên n từ bàn phím. Kiểm tra a là số âm hay dương */

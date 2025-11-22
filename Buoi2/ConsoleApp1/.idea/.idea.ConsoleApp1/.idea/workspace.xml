@@ -4,10 +4,10 @@
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e666a8aa-eba6-404c-8ee4-75d1da6af019" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleApp2/ConsoleApp2/Program.cs" afterDir="false" />
+    <list default="true" id="e592d035-f2e9-40a3-ac71-23db25e1a6cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Buoi1/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Buoi1/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Buoi1/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Buoi1/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Buoi1/ConsoleApp2/ConsoleApp2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Buoi1/ConsoleApp2/ConsoleApp2/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +17,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="34rleSSXOE6hafDy06H5r1OJ36p" />
+  <component name="ProjectId" id="35VJPLZiFHR9hJ5KtTlCYK0N0H3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +28,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,13 +54,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e666a8aa-eba6-404c-8ee4-75d1da6af019" name="Changes" comment="" />
-      <created>1761979667207</created>
+      <changelist id="e592d035-f2e9-40a3-ac71-23db25e1a6cd" name="Changes" comment="" />
+      <created>1763189284800</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761979667207</updated>
-      <workItem from="1761979693996" duration="89000" />
-      <workItem from="1761979847005" duration="3967000" />
+      <updated>1763189284800</updated>
+      <workItem from="1763189291033" duration="1978000" />
     </task>
     <servers />
   </component>

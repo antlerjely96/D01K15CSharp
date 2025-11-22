@@ -20,7 +20,7 @@ Console.WriteLine("Hello World");
 	Nếu diem < 0 || diem > 10 => Nhap sai
 	Neu diem < 5 => Yeu
 	Neu diem < 6.5 => trung binh
-	Neu && diem < 8 => Kha
+	Neu diem < 8 => Kha
 	Con lai => gioi
 	
 	5. Nhap thang la 1 so nguyen. Hien thi so ngay trong thang do
